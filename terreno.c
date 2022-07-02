@@ -19,8 +19,8 @@ int main(){
     area = largura * comprimento;
     preco = area * metroquadrado;
 
-    printf("A  area do terreno e: 8:2%f", area);
-    printf("O preco do terreno e: 8:2%f", preco);
+    printf("A  area do terreno e: 8:2%f\n", area);
+    printf("O preco do terreno e: 8:2%f\n", preco);
 
     return 0;
     system ("PAUSE");

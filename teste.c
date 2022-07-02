@@ -19,7 +19,7 @@ int main()
     printf("digite qual foi o seu salario:\n");
     scanf("%f", &salario2);
 
-    printf("A idade informada e: 0.3%d\n", idade);
+    printf("A idade informada e: %d\n", idade);
     printf("O nome informado e: %s\n", nome);
     printf("O salario informado e: 0.3%f\n", salario1);
     printf("O salario informado e: 0.3%f\n", salario2);
