@@ -15,10 +15,10 @@ int main(){
     printf("produto: \n");
     scanf("%s",&produto);
 
-    printf("O produto", %s produto1, "custa RS", %f preco1);
-    printf("O produto", %s produto2, "custa RS", %f preco2);
+    printf("O produto", %s produto1, "custa RS", %.2f preco1);
+    printf("O produto", %s produto2, "custa RS", %.2f preco2);
     printf("O codigo = :\n",codigo);
-    printf("Dados da pessoa: genero", %s genero, "e idade", %d idade);
+    printf("Dados da pessoa %s genero %.2d idade:\n", genero, idade);
 
 return 0;
 system("PAUSE");
