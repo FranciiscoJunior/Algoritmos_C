@@ -1,16 +1,12 @@
 #include<stdio.h>
 int main(){
 
-    int duracao;
-    int horas;
-    int resto;
-    int minutos;
-    int segundos;
+    int duracao, horas, resto, minutos, segundos;
 
     printf("informe a duracao em segundos: \n");
     scanf("%d",&duracao);
 
-    horas = duracao\3600;
+    duracao = horas\3600;
     resto = duracao\3600;
 
     minutos = resto\60;

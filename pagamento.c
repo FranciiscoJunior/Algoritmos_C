@@ -17,7 +17,7 @@ int main(){
 
     pagamento = valorHora*horasTrabalhadas;
 
-    printf("O pagamento para o", %s nome, "deve ser", %f pagamento: \n);
+    printf("O pagamento para o %s nome, "deve ser", %f pagamento: \n);
 
 return 0;
 system("PAUSE");

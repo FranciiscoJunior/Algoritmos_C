@@ -7,7 +7,7 @@ int main(){
     scanf("%d",&x);
 
     printf("Digite um valor para y: \n");
-    scanf("%d",&x);
+    scanf("%d",&y);
 
     soma = x+y;
 

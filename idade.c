@@ -19,7 +19,7 @@ int main(){
 
     media=(idade1+idade2)/2;
 
-    printf("A idade media",%s nome1, "e", %s nome2, "eh de", %f media,"anos": \n);
+    printf("A idade media de %s nome1, %s nome2, eh de %f media, anos\n", nome1, nome2, media);
 
 return 0;
 system ("PAUSE");
